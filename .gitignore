@@ -24,6 +24,7 @@ yarn-error.log*
 
 # Webstorm-specific stuff
 .idea
+.vscode
 
 # Other
 *~
